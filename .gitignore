@@ -1,4 +1,5 @@
 **/target/
+.vscode/
 ### Java ###
 # Compiled class file
 *.class
